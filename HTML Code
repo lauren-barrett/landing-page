@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+  
+  <header id="header">
+    
+    <div class="header-img">
+      
+      <img id="header-img" src="https://pixy.org/src/68/687360.jpg" alt="Red Chinese Snake Symbol">
+      
+    </div>
+    
+    <div class="nav-bar">
+      
+      <nav id="nav-bar">
+        
+        <ul class="links">
+          
+          <a class="nav-link" href="#feature">Features</a>
+          
+          <a class="nav-link" href="#how-it-works">How it works?</a>
+          
+          <a class="nav-link" href="#features">Pricing</a>
+          
+        </ul>
+        
+      </nav>
+        
+  </header>
+    
+  </br>
+  
+  <form id="form" action="https://www.freecodecamp.com/email-submit">
+    
+    <h1 class="title">Lorem ipsum dolor sit amet </h1>
+    
+    <input id="email" type="email" name="email" placeholder="Enter Your Email Address" button type="submit">
+    
+    <input button id="submit" type="submit" value="submit">
+     
+  </form>
+  
+  </br>
+
+<div class="text" id="feature">
+  
+  <h1> Nulla volutpat luctus velit ac tempus </h1>
+  
+  <p> Pellentesque tincidunt rutrum hendrerit. Suspendisse pretium aliquam ipsum in efficitur. </p>
+  
+  <h1> Integer interdum ultricies cursus </h1>
+  
+  <p> Aenean varius turpis leo, finibus euismod orci facilisis id. In viverra vestibulum bibendum. </p>
+  
+  <h1> In sollicitudin non eros a facilisis </h1>
+  
+  <p>  Phasellus sit amet mauris posuere, condimentum ligula at, ullamcorper est. </p>
+
+</div>
+
+</br>
+
+<div id="how-it-works">
+  
+  <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/uMCSdgkdOJc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</div>
+
+<div id="features" class="flex-container">
+  
+  <div class="products">
+    
+    <div class="product-title">
+      
+      <h1> Fusce quis </h1>
+      
+    </div>
+    
+    <div class="product-description">
+      
+      <h2> $150 </h2>
+      
+      <p> Nunc blandit mi lobortis </p>
+      
+      <p> Elementum diam id </p>
+      
+      <p> Venenatis lorem </p>
+      
+    </div>
+    
+    <div class="product-submit">
+      
+      <input id="product-submit" button type="submit" value="Select">
+      
+    </div>
+    
+  </div>
+  
+  <div class="products">
+    
+    <div class="product-title">
+      
+      <h1> Fusce consequat </h1>
+      
+    </div>
+    
+    <div class="product-description">
+      
+      <h2> $300 </h2>
+      
+      <p> Donec purus justo </p>
+      
+      <p> Euismod eget lacus et </p>
+      
+      <p> Pulvinar volutpat nisl </p>
+      
+    </div>
+    
+    <div class="product-submit">
+      
+      <input id="product-submit" button type="submit" value="Select">
+      
+    </div>
+    
+  </div>
+  
+  <div class="products">
+    
+    <div class="product-title">
+      
+      <h1> Pharetra libero </h1>
+      
+    </div>
+    
+    <div class="product-description">
+      
+      <h2> $600 </h2>
+      
+      <p> A lacinia orci auctor </p>
+      
+      <p> Et fringilla lorem porta vitae </p>
+      
+      <p> Nulla sit amet iaculis elit </p>
+      
+    </div>
+    
+    <div class="product-submit">
+      
+      <input id="product-submit" button type="submit" value="Select">
+      
+    </div>
+    
+  </div>
+  
+</div>
+  
+</html>
